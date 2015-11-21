@@ -4,4 +4,4 @@
 
 ## Stream now movies from your imdb watchlist
 
-[Imdb watchlist docs](imdb_watchlist_dosc.md)
+[Imdb watchlist docs](imdb_watchlist_docs.md)
