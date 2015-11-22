@@ -12,7 +12,9 @@ App will consist of this modules:
   - webpack
   - material design
   - deployed using docker or just static files host (like gh pages)
-  
+
+Initial overview of angular 2 seeds [here](angular_seed_comparison.md)
+
 2. Backend 
   - scala
   - akka
